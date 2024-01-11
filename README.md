@@ -51,12 +51,9 @@ Manager at MicroLab laboratory
 ---
 
 <!-- STATS -->
-<p align="center">
+![Ryan LAURET's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula)
 
-  ![Ryan LAURET's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula)
 
 ---
 
