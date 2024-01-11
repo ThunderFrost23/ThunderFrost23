@@ -57,6 +57,7 @@ Manager at MicroLab laboratory
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula)
 </p>
+
 ---
 
 <!-- AFK -->
