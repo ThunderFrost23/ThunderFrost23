@@ -3,6 +3,11 @@
 ![Banner](./src/thunderfrost.gif)
 
 <!-- CONTACT -->
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryan-lauret-232559197/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ryan.lauret1@gmail.com?subject=Hello%20Ryan,%20From%20Github)
+
+</div>
+
 - 🔭 I’m currently in part-time IT developer with Epitech School for a Professional Master of Science, and Software Project.
 Manager at MicroLab laboratory
 - 🌱 I’m currently learning AI Technology and more about IT development.
@@ -13,12 +18,6 @@ Manager at MicroLab laboratory
   - 👺🗾 Watch anime and love with Japan;
   - 🚗 I am a car passionate;
   - ⚡❄️ ThunderFrost is my nickname ! 😁
-
-</div>
-
-<!-- CONTACT -->
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryan-lauret-232559197/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ryan.lauret1@gmail.com?subject=Hello%20Ryan,%20From%20Github)
 
 ---
 
