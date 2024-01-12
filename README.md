@@ -68,19 +68,19 @@ Manager at MicroLab laboratory
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
 
-![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)
+  ![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)
 
-![Nintendo Switch Badge](https://img.shields.io/badge/Nintendo%20Switch-E60012?logo=nintendoswitch&logoColor=fff&style=flat-square)
+  ![Nintendo Switch Badge](https://img.shields.io/badge/Nintendo%20Switch-E60012?logo=nintendoswitch&logoColor=fff&style=flat-square)
 
-![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=fff&style=flat-square)
+  ![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=fff&style=flat-square)
 
-![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat-square)
+  ![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat-square)
 
-![Mix Badge](https://img.shields.io/badge/Mix-FF8126?logo=mix&logoColor=fff&style=flat-square)
+  ![Mix Badge](https://img.shields.io/badge/Mix-FF8126?logo=mix&logoColor=fff&style=flat-square)
 
-![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square)
+  ![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square)
 
-![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat-square)
+  ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat-square)
 
-![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat-square)
+  ![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat-square)
 </div>
