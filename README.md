@@ -26,11 +26,10 @@ Manager at MicroLab laboratory
 
 <!-- QUOTE -->
 <h3 align="center">💡 A Quote :</h3>
-
-<p align="center">
-
-  >*“I'm not a great programmer. I’m just a good programmer with great habits.”* - __Kent Beck__
-</p>
+  <p>  
+  
+  *“I'm not a great programmer. I’m just a good programmer with great habits.”* - __Kent Beck__
+  </p>
 
 ---
 
