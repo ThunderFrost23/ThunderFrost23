@@ -33,8 +33,8 @@ Manager at MicroLab laboratory
 
 <!-- STATS -->
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thunderfrost23&show_icons=true&theme=dracula" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderfrost23&layout=compact&theme=dracula" />&nbsp;&nbsp;
 </p>
 
 <!-- AFK -->
