@@ -25,14 +25,14 @@ Manager at MicroLab laboratory
 ---
 
 <!-- QUOTE -->
-<h3 style="text-align: center;">💡 A Quote :</h3>
+<h3 align="center">💡 A Quote :</h3>
 
 >*“I'm not a great programmer. I’m just a good programmer with great habits.”* - __Kent Beck__
 
 ---
 
 <!-- STACK -->
-<h3 style="text-align: center;">💻 My Tech Stack :</h3>
+<h3 align="center">💻 My Tech Stack :</h3>
 
 <p align="center">
     <img src="./src/git.svg" />
@@ -58,7 +58,7 @@ Manager at MicroLab laboratory
 ---
 
 <!-- AFK -->
-<h3 style="text-align: center;">💤 When I am AFK :</h3>
+<h3 align="center">💤 When I am AFK :</h3>
 
 ![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)
 
