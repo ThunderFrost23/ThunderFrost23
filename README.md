@@ -54,7 +54,7 @@ Manager at MicroLab laboratory
 ---
 
 <!-- STATS -->
-<div align="center" display="flex">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
 
   ![Ryan LAURET's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula)
 
@@ -65,6 +65,8 @@ Manager at MicroLab laboratory
 
 <!-- AFK -->
 <h2 align="center">💤 When I am AFK :</h2>
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
 
 ![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat-square)
 
@@ -81,3 +83,4 @@ Manager at MicroLab laboratory
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat-square)
 
 ![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat-square)
+</div>
