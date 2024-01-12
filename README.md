@@ -41,19 +41,12 @@ Manager at MicroLab laboratory
 ## 💤 When I am AFK:
 
 ![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-
 ![Nintendo Switch Badge](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
-
 ![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) &nbsp;
-
 ![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
-
 ![Mix Badge](https://img.shields.io/badge/FL%20Studio-ff7314?style=for-the-badge&logo=mix&logoColor=white) &nbsp;
-
 ![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white) &nbsp;
-
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?style=for-the-badge&logo=adobepremierepro&logoColor=white) &nbsp;
-
 ![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 </div>
