@@ -1,4 +1,4 @@
-![Banner](./thunderfrost.gif)
+![Banner](./src/thunderfrost.gif)
 
 <!-- CONTACT -->
 - 🔭 I’m currently in part-time IT developer with Epitech School for a Professional Master of Science, and Software Project.
@@ -54,12 +54,12 @@ Manager at MicroLab laboratory
 ---
 
 <!-- STATS -->
-<p align="center">
+<div align="center" display="flex">
 
   ![Ryan LAURET's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula)
-</p>
+</div>
 
 ---
 
