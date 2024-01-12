@@ -36,7 +36,7 @@ Manager at MicroLab laboratory
 <!-- STACK -->
 <h3 align="center">💻 My Tech Stack :</h3>
 
-<p align="center">
+<p text-align="center">
     <img src="./src/git.svg" />
     <img src="./src/bash.svg" />
     <img src="./src/py.svg" />
