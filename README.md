@@ -29,7 +29,7 @@ Manager at MicroLab laboratory
 
 <p align="center">
 
->*“I'm not a great programmer. I’m just a good programmer with great habits.”* - __Kent Beck__
+  >*“I'm not a great programmer. I’m just a good programmer with great habits.”* - __Kent Beck__
 </p>
 
 ---
@@ -54,9 +54,12 @@ Manager at MicroLab laboratory
 ---
 
 <!-- STATS -->
-![Ryan LAURET's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula)
+  ![Ryan LAURET's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula)
+</p>
 
 ---
 
