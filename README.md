@@ -19,8 +19,6 @@ Manager at MicroLab laboratory
   - 🚗 I am a car passionate;
   - ⚡❄️ ThunderFrost is my nickname ! 😁
 
----
-
 <div align="center">
 
 <!-- QUOTE -->
@@ -49,13 +47,13 @@ Manager at MicroLab laboratory
 ![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) &nbsp;
 
 ![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
-
+<!-- 
 ![Mix Badge](https://img.shields.io/badge/FL%20Studio-ff7314?style=for-the-badge&logo=mix&logoColor=white) &nbsp;
 
 ![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white) &nbsp;
 
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?style=for-the-badge&logo=adobepremierepro&logoColor=white) &nbsp;
 
-![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) -->
 
 </div>
