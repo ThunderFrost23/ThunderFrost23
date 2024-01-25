@@ -12,11 +12,11 @@
 Manager at MicroLab laboratory
 - 🌱 I’m currently learning AI Technology and more about IT development.
 - ⚡ Fun fact:
-  - 🎮 I like play video games;
+  - 🎮 Play video games;
   - 🎹🎸🥁 Play music instruments (piano, guitar, bass guitar, drums);
   - 🎚️🎶 Produce songs;
   - 👺🗾 Watch anime and love with Japan;
-  - 🚗 I am a car passionate;
+  - 🚗 Car passionate;
   - ⚡❄️ ThunderFrost is my nickname ! 😁
 
 <div align="center">
