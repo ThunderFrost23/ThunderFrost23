@@ -33,14 +33,15 @@ Manager at MicroLab laboratory
 
 <!-- STATS -->
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryanlauret&show_icons=true&theme=dracula" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlauret&layout=compact&theme=dracula" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thunderfrost23&show_icons=true&theme=dracula" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderfrost23&layout=compact&theme=dracula" />&nbsp;&nbsp;
 </p>
 
 <!-- AFK -->
 ## 💤 When I am AFK:
 
 ![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![PlayStation Badge](https://img.shields.io/badge/playstation-0000FF.svg?style=for-the-badge&logo=playstation&logoColor=white) &nbsp;
 ![Nintendo Switch Badge](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
 ![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) &nbsp;
 ![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
