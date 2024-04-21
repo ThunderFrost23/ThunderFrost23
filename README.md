@@ -29,7 +29,7 @@ Manager at MicroLab laboratory
 <!-- STACK -->
 ## 💻 My Tech Stack:
 
-[![Git, Bash, HTML, CSS, JavaScript, VueJS, Python, Java, C#, DotNET, PHP, Laravel, PGSQL, MongoDB, Figma, Docker, Ansible](https://skillicons.dev/icons?i=git,bash,html,css,js,vue,python,java,cs,dotnet,php,laravel,mysql,postgresql,mongo,figma,docker,ansible)](https://skillicons.dev)
+[![Git, Bash, HTML, CSS, JavaScript, VueJS, Python, Java, C#, DotNET, PHP, Laravel, PGSQL, MongoDB, Figma, Docker, Ansible, Kubernetes](https://skillicons.dev/icons?i=git,bash,html,css,js,vue,python,java,cs,dotnet,php,laravel,mysql,postgresql,mongo,figma,docker,ansible,kubernetes)](https://skillicons.dev)
 
 <!-- STATS -->
 <p>
