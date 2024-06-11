@@ -8,8 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently in part-time IT developer with Epitech School for a Professional Master of Science, and Software Project.
-Manager at MicroLab laboratory
+- 🔭 I’m currently in part-time IT developer with Epitech School for a Professional Master of Science, and Software Project Manager at MicroLab laboratory.
 - 🌱 I’m currently learning AI Technology and more about IT development.
 - ⚡ Fun fact:
   - 🎮 Play video games;
