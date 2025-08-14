@@ -28,7 +28,7 @@
 <!-- STACK -->
 ## 💻 My Tech Stack:
 
-[![Git, Bash, HTML, CSS, JavaScript, Python, Java, C#, DotNET, PHP, Laravel, PGSQL, MongoDB, Figma, Docker, Ansible, Kubernetes](https://skillicons.dev/icons?i=git,bash,html,css,js,python,java,cs,dotnet,php,laravel,mysql,postgresql,mongo,figma,docker,ansible,kubernetes)](https://skillicons.dev)
+[![Git, Bash, HTML, CSS, JavaScript, Python, Java, C#, DotNET, Swift, PHP, Laravel, PGSQL, MongoDB, Figma, Docker, Ansible, Kubernetes](https://skillicons.dev/icons?i=git,bash,html,css,js,python,java,cs,dotnet,swift,php,laravel,mysql,postgresql,mongo,figma,docker,ansible,kubernetes)](https://skillicons.dev)
 
 <!-- STATS -->
 <p>
@@ -40,7 +40,6 @@
 ## 💤 When I am AFK:
 
 ![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![PlayStation Badge](https://img.shields.io/badge/playstation-0000FF.svg?style=for-the-badge&logo=playstation&logoColor=white) &nbsp;
 ![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) &nbsp;
 ![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
 ![Mix Badge](https://img.shields.io/badge/FL%20Studio-ff7314?style=for-the-badge&logo=mix&logoColor=white) &nbsp;
