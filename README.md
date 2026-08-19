@@ -31,10 +31,10 @@
 [![Git, Bash, HTML, CSS, JavaScript, Python, Java, C#, DotNET, Swift, PHP, Laravel, PGSQL, MongoDB, Figma, Docker, Ansible, Kubernetes](https://skillicons.dev/icons?i=git,bash,html,css,js,python,java,cs,dotnet,swift,php,laravel,mysql,postgresql,mongo,figma,docker,ansible,kubernetes)](https://skillicons.dev)
 
 <!-- STATS -->
-<p>
+<!-- <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thunderfrost23&show_icons=true&theme=dracula" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderfrost23&layout=compact&theme=dracula" />&nbsp;&nbsp;
-</p>
+</p> -->
 
 <!-- AFK -->
 ## 💤 When I am AFK:
