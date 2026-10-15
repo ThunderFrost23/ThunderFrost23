@@ -28,7 +28,7 @@
 <!-- STACK -->
 ## 💻 My Tech Stack:
 
-[![Git, Bash, HTML, CSS, JavaScript, Python, Java, C#, DotNET, Swift, PHP, Laravel, PGSQL, MongoDB, Figma, Docker, Ansible, Kubernetes](https://skillicons.dev/icons?i=git,bash,html,css,js,python,java,cs,dotnet,swift,php,laravel,mysql,postgresql,mongo,figma,docker,ansible,kubernetes)](https://skillicons.dev)
+[![Git, Bash, HTML, CSS, JavaScript, Python, Java, C#, Swift, PHP, PGSQL, MongoDB, Figma, Docker, Ansible, Kubernetes](https://skillicons.dev/icons?i=git,bash,html,css,js,python,java,cs,swift,php,mysql,postgresql,mongo,figma,docker,ansible,kubernetes)](https://skillicons.dev)
 
 <!-- STATS -->
 <!-- <p>
